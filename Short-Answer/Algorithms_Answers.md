@@ -1,15 +1,12 @@
-#### Please add your answers to the ***Analysis of  Algorithms*** exercises here.
+#### Please add your answers to the **_Analysis of Algorithms_** exercises here.
 
 ## Exercise I
 
-a)
+a) O(n) This will only be run run n times until the condition is met.
 
+b) O(log n). The while loop is run for every value of N. everytime two loops are multiplied it is at least log(n).
 
-b)
-
-
-c)
+c) The number of bunny ears scales linear to # of buns. This will only be run n times.
+O(n)
 
 ## Exercise II
-
-
